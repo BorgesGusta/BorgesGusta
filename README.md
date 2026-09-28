@@ -1,42 +1,36 @@
-# Olá, eu sou Gustavo Borges
+# Gustavo Borges
 
-Sou estudante de Sistemas de Informação pela Unifesspa e também atuo com marketing, tecnologia e automações para negócios.
+Estudante de Sistemas de Informação pela Unifesspa, empreendedor e entusiasta de tecnologia aplicada a negócios.
 
-Hoje meu foco está em criar soluções que unem estratégia, produto digital, integrações e crescimento de empresas, principalmente nas áreas de marketing, atendimento e operação.
+Atuo na interseção entre **software, automação, marketing e estratégia**, desenvolvendo soluções que ajudam empresas a organizar processos, integrar ferramentas, melhorar o atendimento e crescer de forma mais estruturada.
 
 ## Sobre mim
 
-- 🎓 Estudante de Sistemas de Informação
-- 🚀 Fundador da Agência Grow Up
-- 💡 Interesse em automações, SaaS, integrações e produtos digitais
-- 📈 Atuação com Assessoria de tráfego pago e marketing digital para negócio locais e crescimento, processos e tecnologia aplicada a negócios
-- 🛠️ Construindo projetos que unem marketing, software e operação
+- 🎓 Sistemas de Informação | Unifesspa
+- 🚀 Fundador da Grow Up Agência
+- 💻 Desenvolvimento de produtos e soluções digitais
+- ⚙️ Automações, APIs e integrações entre sistemas
+- 📊 Marketing, tráfego pago e análise de dados
+- 🧠 Interesse em SaaS, IA, arquitetura de sistemas e empreendedorismo
 
 ## Tecnologias e ferramentas
 
-- n8n
-- PostgreSQL
-- Docker
-- Git e GitHub
-- JavaScript
-- APIs e integrações
-- Meta Ads
-- Google Ads
+`JavaScript` · `Node.js` · `PostgreSQL` · `Supabase` · `Docker` · `Git` · `GitHub`
 
-## Projetos e áreas de interesse
+`n8n` · `REST APIs` · `Webhooks` 
 
-Atualmente venho trabalhando em projetos voltados para:
+Além da parte técnica, também trabalho com estratégias de aquisição, processos comerciais e tecnologia aplicada à operação de negócios.
 
-- automação de processos
-- integração entre sistemas
-- atendimento omnichannel
-- plataformas para negócios
-- soluções digitais para marketing e operação
+## O que estou construindo
 
-## Minha atividade por aqui
+Atualmente tenho focado em projetos envolvendo **automação de processos, atendimento omnichannel, integrações com WhatsApp, plataformas SaaS e ferramentas para melhorar a operação de empresas**.
+
+Busco transformar problemas reais de negócios em soluções simples, escaláveis e úteis.
+
+## Atividade no GitHub
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BorgesGusta/BorgesGusta/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BorgesGusta/BorgesGusta/output/github-snake.svg">
-  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/BorgesGusta/BorgesGusta/output/github-snake.svg">
+  <img alt="Animação das contribuições de Gustavo Borges no GitHub" src="https://raw.githubusercontent.com/BorgesGusta/BorgesGusta/output/github-snake.svg">
 </picture>
